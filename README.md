@@ -7,8 +7,6 @@ A modern, responsive, and high-performance full-stack web application designed t
 ## 🌟 Live Demo
 
 - **Frontend Application:** [https://kumarbuildspro-frontend.onrender.com/](https://kumarbuildspro-frontend.onrender.com/)
-- **Backend API:** [https://kumarbuildspro-backend.onrender.com](https://kumarbuildspro-backend.onrender.com)
-
 ---
 
 ## ✨ Features
